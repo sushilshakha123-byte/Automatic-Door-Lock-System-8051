@@ -87,6 +87,22 @@ In real hardware, the system is implemented using:
 
 ---
 
+## 🔥 Project Demonstration
+
+The project has been developed in multiple stages. Below are the release versions:
+
+### 🚀 Latest Release (v1.1)
+Final implementation with simulation and hardware demonstration.
+
+👉 [View Release v1.1](https://github.com/sushilshakha123-byte/Automatic-Door-Lock-System-8051/releases/tag/v1.1)
+
+---
+
+### 🛠 Initial Release (v1.0)
+Early prototype with basic simulation.
+
+👉 [View Release v1.0](https://github.com/sushilshakha123-byte/Automatic-Door-Lock-System-8051/releases/tag/v1.0)
+
 ## 👨‍💻 Author
 
 Sushil Sakhakarmi  
